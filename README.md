@@ -6,3 +6,6 @@ I decided to take this assignment as an opportunity to make a travel blog for th
 
 Keeping this blog limited to the places we visited in the States. 
 
+---
+permalink: /index.html
+---
