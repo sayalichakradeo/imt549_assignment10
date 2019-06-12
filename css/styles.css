@@ -35,6 +35,11 @@ html {
     padding-top: 20px;
 }
 
+.gallery-button {
+    display: inline-block;
+    color: #000000;
+}
+
 .map-container-9,
 .map-container-10,
 .map-container-11 {
@@ -54,7 +59,7 @@ html {
 
 @media (min-width: 700px){
     .headline {
-        color: #0749d8;
+        color: #f10861;
         font-family: Raleway;
         font-weight: 200;
         font-size: 5rem;
