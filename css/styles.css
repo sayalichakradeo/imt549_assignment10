@@ -50,3 +50,16 @@ html {
     width: 100%;
     position: absolute;
 }
+
+@media (min-width: 600px){
+    .headline {
+        color: #f2f4f7;
+        font-family: Raleway;
+        font-weight: 200;
+        font-size: 3rem;
+        font-style: italic;
+        margin: 0;
+        text-align: center;
+        padding-top: 20px;
+    }
+}
