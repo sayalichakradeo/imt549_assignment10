@@ -10,6 +10,7 @@ html {
     margin: 0;
 }
 
+
 .bg {
     /* The image used */
     background-image: url("../images/img9.jpeg");
@@ -24,10 +25,10 @@ html {
 }
 
 .headline {
-    color: #0749d8;
+    color: #ffffff;
     font-family: Raleway;
     font-weight: 200;
-    font-size: 5rem;
+    font-size: 3rem;
     font-style: italic;
     margin: 0;
     text-align: center;
@@ -51,12 +52,12 @@ html {
     position: absolute;
 }
 
-@media (min-width: 600px){
+@media (min-width: 700px){
     .headline {
-        color: #f2f4f7;
+        color: #0749d8;
         font-family: Raleway;
         font-weight: 200;
-        font-size: 3rem;
+        font-size: 5rem;
         font-style: italic;
         margin: 0;
         text-align: center;
